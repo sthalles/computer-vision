@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{Kluyver}
+Thomas Kluyver, Benjamin Ragan-Kelley, Fernando P{\'e}rez, Brian Granger,
+  Matthias Bussonnier, Jonathan Frederic, Kyle Kelley, Jessica Hamrick, Jason
+  Grout, Sylvain Corlay, Paul Ivanov, Dami{\'a}n Avila, Safia Abdalla, and
+  Carol Willing.
+\newblock Jupyter notebooks -- a publishing format for reproducible
+  computational workflows.
+\newblock In F.~Loizides and B.~Schmidt, editors, {\em Positioning and Power in
+  Academic Publishing: Players, Agents and Agendas}, pages 87 -- 90. IOS Press,
+  2016.
+
+\bibitem{NumPy}
+Oliphant Travis~E.
+\newblock A guide to numpy, 2006.
+\newblock [Online; accessed 15/04/2018].
+
+\bibitem{OpenCV}
+G.~Bradski.
+\newblock {The OpenCV Library}.
+\newblock {\em Dr. Dobb's Journal of Software Tools}, 2000.
+
+\bibitem{Matplotlib}
+John~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment, 2007.
+\newblock [Online; accessed 15/04/2018].
+
+\end{thebibliography}
